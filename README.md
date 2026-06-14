@@ -5,7 +5,7 @@
 
 <!-- Brand Logo -->
 <a href="https://asitha.top">
-  <img src="https://i.ibb.co/TBKZXRDF/2ed696a3-1e79-4b7f-8458-53a270cf43cd.jpg" alt="Brand Logo" border="2">
+  <img src="https://github.com/kavindudharshana51-ops/Kakashi-hatake-/blob/main/image/lv_0_20260614003155.jpg" alt="Brand Logo" border="2">
 </a>
 
 <!-- Typing Banner -->
