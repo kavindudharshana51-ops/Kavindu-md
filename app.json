@@ -6,7 +6,7 @@
   "success_url": "/",
 
   "env": {
-    "SESSION_ID": {"𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=08d578131a140b35"
+    "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true
     }
